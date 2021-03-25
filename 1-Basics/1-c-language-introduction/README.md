@@ -152,7 +152,7 @@ http://codepad.org/ that can be used to start C without installing a compiler.
 
 #### Windows: 
 
-There are many compilers available freely for compilation of C programs like Code Blocks  and Dev-CPP.   We strongly recommend Code Blocks.
+There are many compilers available freely for compilation of C programs like Code Blocks  and Dev-CPP, VS Code. I strongly recommend VS Code.
 
 #### Linux:
 
